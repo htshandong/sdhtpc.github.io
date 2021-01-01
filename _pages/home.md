@@ -1,5 +1,5 @@
 ---
-title: "主页 - 山东弘泰药业有限 MACROCK"
+title: "主页 - 山东弘泰药业有限公司 MACROCK"
 layout: homelay
 excerpt: "Sanders Lab at UCSF."
 sitemap: false
