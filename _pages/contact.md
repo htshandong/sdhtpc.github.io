@@ -1,13 +1,26 @@
 ---
-title: "Sanders Lab - Contact"
+title: "联系我们 - 弘泰药业 MACROCK"
 layout: textlay
 excerpt: "Contact."
 sitemap: false
 permalink: /contact/
 ---
 
-# Contact
+### 联系我们
 
+联系电话：0531-88982678
+
+传真：
+
+
+### 公司地址
+
+济南市历下区经十路9777号鲁商国奥城3号楼2205室 ([百度地图](https://map.baidu.com/search/%E6%B5%8E%E5%8D%97%E5%B8%82%E5%8E%86%E4%B8%8B%E5%8C%BA%E7%BB%8F%E5%8D%81%E8%B7%AF9777%E5%8F%B7%E9%B2%81%E5%95%86%E5%9B%BD%E5%A5%A5%E5%9F%8E3%E5%8F%B7%E6%A5%BC/@13038366.44,4367221.49,19z?querytype=s&da_src=shareurl&wd=%E6%B5%8E%E5%8D%97%E5%B8%82%E5%8E%86%E4%B8%8B%E5%8C%BA%E7%BB%8F%E5%8D%81%E8%B7%AF9777%E5%8F%B7%E9%B2%81%E5%95%86%E5%9B%BD%E5%A5%A5%E5%9F%8E3%E5%8F%B7%E6%A5%BC&c=236&src=0&pn=0&sug=0&l=19&b=(13351917.61,4382740.61;13352369.61,4383023.61)&from=webmap&biz_forward=%7B%22scaler%22:1,%22styles%22:%22pl%22%7D&device_ratio=1))
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/macrock-address.png" style="width: 480px">
+
+
+<!--
 ## Lab Location
 
 Sanders Lab is in Rock Hall of the UCSF Mission Bay Campus ([Google Map](https://goo.gl/maps/wLQbKoAUSTS2)):
@@ -39,4 +52,6 @@ Several UCSF shuttle lines stop on 4th Street outside Rock Hall. Shuttles arrive
 - The UCSF Shuttle map can be found [here](https://campuslifeservices.ucsf.edu/upload/transportation/files/Shuttles_SystemMap_Current.pdf)
 
 - The Next Shuttle can be found [here](https://ucsf.tripshot.com/)
+
+-->
 
