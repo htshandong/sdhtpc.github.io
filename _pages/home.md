@@ -4,6 +4,7 @@ layout: homelay
 excerpt: "Sanders Lab at UCSF."
 sitemap: false
 permalink: /
+
 ---
 <!--
 # Welcome to Sanders Lab at UCSF
@@ -13,9 +14,25 @@ permalink: /
 
 
 
-The Sanders Lab aims to identify the etiology of developmental disorders through the discovery of genetic risk factors. Over the past few years there has been rapid progress in identifying the genes that play a role in autism spectrum disorder (ASD). We aim to continue this progress, leverage these findings to build a more complete understanding of ASD, and to extend this approach to other human disorders, including congenital malformations.
+&emsp;&emsp;山东弘泰药业有限公司是兴鼎集团有限公司的控股子公司，公司经营范围包括：化工医药原料及中间体、精细化工品（不含危险化学品）的研发、销售及相关技术咨询、中介服务、货物及技术进出口业务等。
 
 
+&emsp;&emsp;公司总投资超过25000万元，总占地500亩，拥有国内最大的兽药GMP生产线以及年产10000吨以上的发酵基地和中试基地，并于2016年建成投产了拥有自主知识产权的添加剂生产线。目前公司运营架构实行事业部管理，分别有生物工程事业部、添加剂事业部以及养殖服务事业部。
+
+&emsp;&emsp;公司致力于国外兽用抗生素的国产化生产和功能性饲料添加剂的转化及应用；与国内众多大型饲料集团和超大型养殖集团建立了稳定合作，产品得到了社会的广泛关注与支持。
+
+
+---
+
+总经理 : 狄永久
+
+联系电话 : 13658601666
+
+电子邮箱 : snowhitea@foxmail.com
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/macrock-qr.png" style="width: 150px">	
+
+<!--
 There are five main areas of research:
 
 1. **Gene discovery**: Genomic analysis of DNA using high-throughput sequencing to identify genes associated with human disorders
@@ -43,7 +60,7 @@ We are grateful for funding from the [National Institute of Mental Health](https
 </figure>
 
 
-
+-->
 
 
 
